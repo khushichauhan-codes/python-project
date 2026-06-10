@@ -10,7 +10,8 @@ This repository contains Python mini projects created while learning Python prog
 4. Simple Calculator using Function Program
 5. Rock Paper Scissors Project
 6. Student Management System using Python and File Handling
-
+7. Contact Book Management System using Python
+ 
 
 ## Technologies Used
 
