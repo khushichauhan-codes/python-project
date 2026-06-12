@@ -12,6 +12,7 @@ This repository contains Python mini projects created while learning Python prog
 6. Student Management System using Python and File Handling
 7. Contact Book Management System using Python
 8. Expense Tracker Project using Python
+9. Library Management System using Python
  
 
 ## Technologies Used
