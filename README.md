@@ -18,6 +18,7 @@ This repository contains Python mini projects created while learning Python prog
 12. Student Result Management using Python
 13. To-Do list Manager using Python
 14. Contact Management System using Python
+15. Movie Collection Manager using Python
  
 
 ## Technologies Used
